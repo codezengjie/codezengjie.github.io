@@ -1,7 +1,6 @@
 ---
 title: "Disk Read For Mac"
 date: 2021-08-26T15:57:15+08:00
-draft: true
 
 tags: ["disk", "mac", "ntfs"]
 ---
