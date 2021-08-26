@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disk on Website of codezengjie</title>
+    <link>https://example.com/tags/disk/</link>
+    <description>Recent content in disk on Website of codezengjie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Aug 2021 15:57:15 +0800</lastBuildDate><atom:link href="https://example.com/tags/disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disk Read For Mac</title>
+      <link>https://example.com/english/post/diskreadformac/</link>
+      <pubDate>Thu, 26 Aug 2021 15:57:15 +0800</pubDate>
+      
+      <guid>https://example.com/english/post/diskreadformac/</guid>
+      
+        <description>author: zengjie   open terminal.app
+  run open /System/Applications/Utilities/Disk\ Utility.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
